@@ -3,5 +3,7 @@ I have built a simple web app that predicts the price of flights based on inputs
 
 Data Preprocessing is done in Dataiku AutoML Software tool, the dataset are Test_DATASET_1 and TRAIN_DATASET.
 
+PPT : Project-Flight.pdf
+
 Link :
 https://flight-price-prediction-007.herokuapp.com/
